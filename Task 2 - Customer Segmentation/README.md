@@ -36,7 +36,7 @@ This project segments mall customers into groups based on their annual income an
 - `kmeans_cluster_summary.csv`, `dbscan_cluster_summary.csv`: Cluster summaries
 
 ## Author
-[Your Name]
+Moshe Dayan
 
 ---
 *For more details, see the notebook and report.*
