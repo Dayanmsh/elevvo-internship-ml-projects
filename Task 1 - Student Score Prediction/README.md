@@ -47,5 +47,5 @@ This project builds a machine learning model to predict students' exam scores ba
 A Jupyter notebook version is provided for step-by-step exploration and visualization.
 
 ## Author
-- Your Name
+- Moshe Dayan
 - February 2026
