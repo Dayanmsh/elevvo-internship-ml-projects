@@ -150,4 +150,4 @@ def update_dashboard(store, dept, start_date, end_date, ma_toggle):
     return fig, summary, total_sales, record_count, {"display": "none"}
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
