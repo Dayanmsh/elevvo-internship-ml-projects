@@ -1,0 +1,14 @@
+Linear Regression CV R2: 0.6727 ± 0.0625
+Linear Regression R2: 0.7237
+Best Polynomial Degree: 2
+Polynomial Regression R2: 0.7210
+Ridge Regression R2: 0.7237
+Lasso Regression R2: 0.7237
+Top 5 Features: ['Hours_Studied', 'Attendance', 'Previous_Scores', 'Parental_Involvement_Num', 'Access_to_Resources_Num']
+
+Explanations:
+- Linear regression models the relationship between features and exam score as a straight line.
+- Polynomial regression allows for a curved relationship, which may fit the data better.
+- Feature engineering and selection (e.g., motivation, attendance, sleep) can improve model accuracy.
+- Ridge and Lasso add regularization to prevent overfitting and select important features.
+- Cross-validation provides a robust estimate of model performance.
