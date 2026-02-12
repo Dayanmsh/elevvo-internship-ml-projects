@@ -2,8 +2,7 @@
 
 This project forecasts sales using Walmart's historical sales data. It includes a Jupyter notebook for EDA and modeling, and an interactive dashboard built with Dash.
 
-## Dataset
-- Place `train.csv`, `test.csv`, `features.csv`, and `stores.csv` in this folder. (Datasets are not included in the repo.)
+
 
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
@@ -15,4 +14,4 @@ This project forecasts sales using Walmart's historical sales data. It includes 
 - Interactive dashboard (Dash)
 
 ## Author
-*Your Name Here*
+Moshe Dayan
