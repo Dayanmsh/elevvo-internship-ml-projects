@@ -22,7 +22,7 @@ This project predicts the type of forest cover based on cartographic and environ
 - Visualizations (confusion matrix, feature importance)
 
 ## Author
-*Your Name Here*
+Moshe Dayan
 
 ---
 *For details, see the notebook and report.*
