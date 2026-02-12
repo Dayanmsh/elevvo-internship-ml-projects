@@ -43,5 +43,5 @@ This report details the process and results of building a machine learning model
 - `Student Score Prediction.ipynb`: Notebook version
 
 ---
-**Author:** Your Name  
+**Author:** Moshe Dayan  
 **Date:** February 2026
